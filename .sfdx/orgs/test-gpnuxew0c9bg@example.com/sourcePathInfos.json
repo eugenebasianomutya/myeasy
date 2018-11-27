@@ -37,9 +37,9 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1543290730641,
-            "changeTime": 1543290730641,
-            "contentHash": "407f569bafb061bcd4b838c38d6c2b07086fd537"
+            "modifiedTime": 1543298068647,
+            "changeTime": 1543298068647,
+            "contentHash": "bff5680053219d74de32fb5b4d6eda1d77dc9fe5"
         }
     ],
     [
@@ -75,521 +75,508 @@
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\globalValueSets\\Country.globalValueSet-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\globalValueSets\\Country.globalValueSet-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 1338,
             "modifiedTime": 1543290730503,
             "changeTime": 1543290730503,
-            "contentHash": "3c08782ca82cca4fd7569a2c23f00bce6623f3d4"
+            "contentHash": "3c08782ca82cca4fd7569a2c23f00bce6623f3d4",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\globalValueSets\\Types.globalValueSet-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\globalValueSets\\Types.globalValueSet-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 1674,
             "modifiedTime": 1543290730507,
             "changeTime": 1543290730507,
-            "contentHash": "58a1c45334a960cadae731a62b77b3d5373a77ff"
+            "contentHash": "58a1c45334a960cadae731a62b77b3d5373a77ff",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\globalValueSets\\State.globalValueSet-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\globalValueSets\\State.globalValueSet-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 6586,
             "modifiedTime": 1543290730513,
             "changeTime": 1543290730513,
-            "contentHash": "6d5d4850463067e500554c4ffa8a242ef828b26e"
+            "contentHash": "6d5d4850463067e500554c4ffa8a242ef828b26e",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\globalValueSets\\Reservation_Status.globalValueSet-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\globalValueSets\\Reservation_Status.globalValueSet-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 1057,
             "modifiedTime": 1543290730516,
             "changeTime": 1543290730516,
-            "contentHash": "c2ba1727bf103c2ab49de4c4754766d028de20f1"
+            "contentHash": "c2ba1727bf103c2ab49de4c4754766d028de20f1",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Space__c\\Space__c.object-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Space__c\\Space__c.object-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2018,
             "modifiedTime": 1543290730531,
             "changeTime": 1543290730531,
-            "contentHash": "fdd8fb463525fb3eea8eeaaeb6914cafd8aeec80"
-        }
-    ],
-    [
-        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Base_Daily_Booking_Rate__c.field-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Base_Daily_Booking_Rate__c.field-meta.xml",
-            "isDirectory": false,
+            "contentHash": "fdd8fb463525fb3eea8eeaaeb6914cafd8aeec80",
             "isMetadataFile": true,
-            "size": 395,
-            "modifiedTime": 1543290730532,
-            "changeTime": 1543290730532,
-            "contentHash": "9f9d4c87de6eddeb4414b6fc358e74225903c97d"
+            "state": "u"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Category__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Category__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2339,
             "modifiedTime": 1543290730533,
             "changeTime": 1543290730533,
-            "contentHash": "c0f299696ac5f730ce66fbce31ed7d77310d8db1"
+            "contentHash": "c0f299696ac5f730ce66fbce31ed7d77310d8db1",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Market__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Market__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 591,
             "modifiedTime": 1543290730534,
             "changeTime": 1543290730534,
-            "contentHash": "91f2ddaf78c9cc4d9e1272ed7e9d343d041f3ecb"
+            "contentHash": "91f2ddaf78c9cc4d9e1272ed7e9d343d041f3ecb",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Maximun_Capacity__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Maximun_Capacity__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 406,
             "modifiedTime": 1543290730535,
             "changeTime": 1543290730535,
-            "contentHash": "0bca3544602822cdb8e7f51b5bb7142a4f310df9"
+            "contentHash": "0bca3544602822cdb8e7f51b5bb7142a4f310df9",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Minimum_Capacity__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Minimum_Capacity__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 406,
             "modifiedTime": 1543290730536,
             "changeTime": 1543290730536,
-            "contentHash": "dccb9f564846052f7c866b5b17e742d32917db01"
+            "contentHash": "dccb9f564846052f7c866b5b17e742d32917db01",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Picture_URL__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Picture_URL__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 315,
             "modifiedTime": 1543290730536,
             "changeTime": 1543290730536,
-            "contentHash": "7533f19b23213d1e671b85b59211f1cecd4ab814"
+            "contentHash": "7533f19b23213d1e671b85b59211f1cecd4ab814",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Predicted_Booking_Rate__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Predicted_Booking_Rate__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 393,
             "modifiedTime": 1543290730537,
             "changeTime": 1543290730537,
-            "contentHash": "2bf090ea4eae28d07888e797a6cdda9c16d04c8f"
+            "contentHash": "2bf090ea4eae28d07888e797a6cdda9c16d04c8f",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Predicted_Demand__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Predicted_Demand__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 377,
             "modifiedTime": 1543290730537,
             "changeTime": 1543290730537,
-            "contentHash": "abead2eca2b72acea9a0283fdf312b7c12449b8b"
+            "contentHash": "abead2eca2b72acea9a0283fdf312b7c12449b8b",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Type__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Type__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 464,
             "modifiedTime": 1543290730538,
             "changeTime": 1543290730538,
-            "contentHash": "92d0f766367ae725fc3d113a8e68c26996f2add9"
+            "contentHash": "92d0f766367ae725fc3d113a8e68c26996f2add9",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\Reservation__c.object-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\Reservation__c.object-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2027,
             "modifiedTime": 1543290730554,
             "changeTime": 1543290730554,
-            "contentHash": "7e8247c5272f1cc72246f8cb36e643155a1ff209"
+            "contentHash": "7e8247c5272f1cc72246f8cb36e643155a1ff209",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Account__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Account__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 508,
             "modifiedTime": 1543290730555,
             "changeTime": 1543290730555,
-            "contentHash": "77aaf78e2c33de8b0fc83adcaa3ea7b16d6395e9"
+            "contentHash": "77aaf78e2c33de8b0fc83adcaa3ea7b16d6395e9",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Contact__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Contact__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 508,
             "modifiedTime": 1543290730555,
             "changeTime": 1543290730555,
-            "contentHash": "07cab8f69aeadce57b20e06b41beb7ceb67efb2f"
+            "contentHash": "07cab8f69aeadce57b20e06b41beb7ceb67efb2f",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\End_Date__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\End_Date__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 310,
             "modifiedTime": 1543290730557,
             "changeTime": 1543290730557,
-            "contentHash": "83d80bad38c843340220b6d299c2d8ebe5179eb5"
+            "contentHash": "83d80bad38c843340220b6d299c2d8ebe5179eb5",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\End_Time__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\End_Time__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 310,
             "modifiedTime": 1543290730558,
             "changeTime": 1543290730558,
-            "contentHash": "b4d2b74ca80ef9dbf8ce2cb2acd57a6d2da90160"
+            "contentHash": "b4d2b74ca80ef9dbf8ce2cb2acd57a6d2da90160",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Lead__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Lead__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 499,
             "modifiedTime": 1543290730558,
             "changeTime": 1543290730558,
-            "contentHash": "b7316963393c9c622926d97c4cf3d98850e2e585"
+            "contentHash": "b7316963393c9c622926d97c4cf3d98850e2e585",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Market__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Market__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 508,
             "modifiedTime": 1543290730559,
             "changeTime": 1543290730559,
-            "contentHash": "6eb275c088bb8524fff0df1a5d8a1f1220faffaa"
+            "contentHash": "6eb275c088bb8524fff0df1a5d8a1f1220faffaa",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Space__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Space__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 505,
             "modifiedTime": 1543290730560,
             "changeTime": 1543290730560,
-            "contentHash": "624c04579fabd4bdc75f4e9305bd6cbd442333ae"
+            "contentHash": "624c04579fabd4bdc75f4e9305bd6cbd442333ae",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Start_Date__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Start_Date__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 314,
             "modifiedTime": 1543290730561,
             "changeTime": 1543290730561,
-            "contentHash": "f5b04b3370748fb868e5664a062079529159bba2"
+            "contentHash": "f5b04b3370748fb868e5664a062079529159bba2",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Start_Time__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Start_Time__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 314,
             "modifiedTime": 1543290730562,
             "changeTime": 1543290730562,
-            "contentHash": "bc9df585a8dbacbf322e07be00b726f3f0da2e0b"
+            "contentHash": "bc9df585a8dbacbf322e07be00b726f3f0da2e0b",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Status__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Status__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 435,
             "modifiedTime": 1543290730562,
             "changeTime": 1543290730562,
-            "contentHash": "03aef4bdf2cdc759d565e3ce021db84dffe9f0f6"
+            "contentHash": "03aef4bdf2cdc759d565e3ce021db84dffe9f0f6",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Total_Number_Of_Guests__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Total_Number_Of_Guests__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 418,
             "modifiedTime": 1543290730563,
             "changeTime": 1543290730563,
-            "contentHash": "e5b7188571063268e36ae5d225291360a253aa17"
+            "contentHash": "e5b7188571063268e36ae5d225291360a253aa17",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Market__c\\Market__c.object-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Market__c\\Market__c.object-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2012,
             "modifiedTime": 1543290730575,
             "changeTime": 1543290730575,
-            "contentHash": "1f1afdbe565dad67f2c0b036448a35dd01e7c20f"
+            "contentHash": "1f1afdbe565dad67f2c0b036448a35dd01e7c20f",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Market__c\\fields\\City__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Market__c\\fields\\City__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 353,
             "modifiedTime": 1543290730577,
             "changeTime": 1543290730577,
-            "contentHash": "bd2781c468a9118e799e2d378a4ef05c9d456af0"
+            "contentHash": "bd2781c468a9118e799e2d378a4ef05c9d456af0",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Market__c\\fields\\Country__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Market__c\\fields\\Country__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 426,
             "modifiedTime": 1543290730577,
             "changeTime": 1543290730577,
-            "contentHash": "561c003c858bdc8fa71c66b84bd96261262f1944"
+            "contentHash": "561c003c858bdc8fa71c66b84bd96261262f1944",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Market__c\\fields\\Predicted_Booking_Rate__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Market__c\\fields\\Predicted_Booking_Rate__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 417,
             "modifiedTime": 1543290730579,
             "changeTime": 1543290730579,
-            "contentHash": "88fa690a98e3683b740d7f79b594181f30a552b2"
+            "contentHash": "88fa690a98e3683b740d7f79b594181f30a552b2",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Market__c\\fields\\State__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Market__c\\fields\\State__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 420,
             "modifiedTime": 1543290730580,
             "changeTime": 1543290730580,
-            "contentHash": "7a2e1dbae96d94eeac560f7016ec9843310b274b"
+            "contentHash": "7a2e1dbae96d94eeac560f7016ec9843310b274b",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Market__c\\fields\\Total_Daily_Booking_Rate__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Market__c\\fields\\Total_Daily_Booking_Rate__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 496,
             "modifiedTime": 1543290730581,
             "changeTime": 1543290730581,
-            "contentHash": "237465fe39009beaa6065e6080b9e3e048f9e7eb"
+            "contentHash": "237465fe39009beaa6065e6080b9e3e048f9e7eb",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Contact\\fields\\Reservation_Status__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Contact\\fields\\Reservation_Status__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 465,
             "modifiedTime": 1543290730587,
             "changeTime": 1543290730587,
-            "contentHash": "d117868f3911c002064e03234cb2375dafe8f89d"
+            "contentHash": "d117868f3911c002064e03234cb2375dafe8f89d",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\layouts\\Contact-Contact %28Marketing%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\layouts\\Contact-Contact %28Marketing%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9771,
             "modifiedTime": 1543290730595,
             "changeTime": 1543290730595,
-            "contentHash": "edd55781832b9146c86d5e48e2bca19305f7cf9f"
+            "contentHash": "edd55781832b9146c86d5e48e2bca19305f7cf9f",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\layouts\\Reservation__c-Reservation Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\layouts\\Reservation__c-Reservation Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 3470,
             "modifiedTime": 1543290730598,
             "changeTime": 1543290730598,
-            "contentHash": "8bb1193b2039ffd223736ac07301b00a71374c67"
+            "contentHash": "8bb1193b2039ffd223736ac07301b00a71374c67",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\layouts\\Contact-Contact Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\layouts\\Contact-Contact Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9747,
             "modifiedTime": 1543290730604,
             "changeTime": 1543290730604,
-            "contentHash": "0b573acd22e330eb8ea41b22d114319facb80164"
+            "contentHash": "0b573acd22e330eb8ea41b22d114319facb80164",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\layouts\\Space__c-Space Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\layouts\\Space__c-Space Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 3213,
             "modifiedTime": 1543290730607,
             "changeTime": 1543290730607,
-            "contentHash": "937a9f3b91f024918c091069559d681dcc7eece8"
+            "contentHash": "937a9f3b91f024918c091069559d681dcc7eece8",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\layouts\\Contact-Contact %28Support%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\layouts\\Contact-Contact %28Support%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9456,
             "modifiedTime": 1543290730618,
             "changeTime": 1543290730618,
-            "contentHash": "4ba1571d66b268cc2dde7f1fd4599407dfaddcf9"
+            "contentHash": "4ba1571d66b268cc2dde7f1fd4599407dfaddcf9",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\layouts\\Market__c-Market Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\layouts\\Market__c-Market Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2915,
             "modifiedTime": 1543290730621,
             "changeTime": 1543290730621,
-            "contentHash": "245c91c938b8e1ecefd265b3c41b9ee1e32b6cab"
+            "contentHash": "245c91c938b8e1ecefd265b3c41b9ee1e32b6cab",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\layouts\\Contact-Contact %28Sales%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\layouts\\Contact-Contact %28Sales%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9747,
             "modifiedTime": 1543290730634,
             "changeTime": 1543290730634,
-            "contentHash": "0ab5e580d618f20da3fa384536f67b6caa61b03d"
+            "contentHash": "0ab5e580d618f20da3fa384536f67b6caa61b03d",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -599,10 +586,10 @@
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 8867,
-            "modifiedTime": 1543290730644,
-            "changeTime": 1543290730644,
-            "contentHash": "04e88ab8ef00e86846e9c73f6c1fed8469050d99"
+            "size": 10494,
+            "modifiedTime": 1543298068574,
+            "changeTime": 1543298068574,
+            "contentHash": "3c6a54f91704a9137c3b3584954ece8fc1317a7d"
         }
     ],
     [
@@ -612,10 +599,10 @@
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 8871,
-            "modifiedTime": 1543290730648,
-            "changeTime": 1543290730648,
-            "contentHash": "8bec198469d6cb5222f2880599e87100b4652865"
+            "size": 10498,
+            "modifiedTime": 1543298068588,
+            "changeTime": 1543298068588,
+            "contentHash": "fdec2ae35766aaef121a912e6a952d3734d20bd2"
         }
     ],
     [
@@ -625,10 +612,10 @@
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 9207,
-            "modifiedTime": 1543290730652,
-            "changeTime": 1543290730652,
-            "contentHash": "6857b7047e0b71fed52d18a07c88ccdafae79074"
+            "size": 10834,
+            "modifiedTime": 1543298068609,
+            "changeTime": 1543298068609,
+            "contentHash": "56c3d508b1ef5c8473366f6f898bded9489360aa"
         }
     ],
     [
@@ -638,36 +625,36 @@
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 23391,
-            "modifiedTime": 1543290730665,
-            "changeTime": 1543290730665,
-            "contentHash": "3b38bb617d2dc0ed909f3860194fecd6e515ba8d"
+            "size": 25016,
+            "modifiedTime": 1543298068645,
+            "changeTime": 1543298068645,
+            "contentHash": "57a615f45ce7ded658f91578e3bd4c1868047c9e"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\globalValueSets",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\globalValueSets",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1543290730515,
             "changeTime": 1543290730515,
-            "contentHash": "5b31846d56ec02084c8bf1954d93dae03cd28e9e"
+            "contentHash": "5b31846d56ec02084c8bf1954d93dae03cd28e9e",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Space__c",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Space__c",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1543290730531,
             "changeTime": 1543290730531,
-            "contentHash": "6c1bd86a2543f768e375b276ac1654663547c5c4"
+            "contentHash": "6c1bd86a2543f768e375b276ac1654663547c5c4",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -678,9 +665,9 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1543290730586,
-            "changeTime": 1543290730586,
-            "contentHash": "f4015d2563d7911e017ed4578526531514ef8c6b"
+            "modifiedTime": 1543298068534,
+            "changeTime": 1543298068534,
+            "contentHash": "bf16ba11d9284d660bf9e104b0afe0bafd7e2588"
         }
     ],
     [
@@ -691,87 +678,87 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1543290730538,
-            "changeTime": 1543290730538,
-            "contentHash": "8951aaff0310be8cb128f642605e8cd4b12eb110"
+            "modifiedTime": 1543298068527,
+            "changeTime": 1543298068527,
+            "contentHash": "81a23e482b020a5da3935053eb5def6c217733a8"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Reservation__c",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Reservation__c",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1543290730554,
             "changeTime": 1543290730554,
-            "contentHash": "68bf80eb1f3569d9845ee84c883977cebb5d3b6d"
+            "contentHash": "68bf80eb1f3569d9845ee84c883977cebb5d3b6d",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1543290730563,
             "changeTime": 1543290730563,
-            "contentHash": "e2b21c4656879d0006a2b573971e7ffc9a9ba3d9"
+            "contentHash": "e2b21c4656879d0006a2b573971e7ffc9a9ba3d9",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Market__c",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Market__c",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1543290730575,
             "changeTime": 1543290730575,
-            "contentHash": "fce16bb6dfc4f3975520570ad9148bc6d7eb00e9"
+            "contentHash": "fce16bb6dfc4f3975520570ad9148bc6d7eb00e9",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Market__c\\fields",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Market__c\\fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1543290730580,
             "changeTime": 1543290730580,
-            "contentHash": "ea6054a9e1031875c634e5b4a0eb7985390e0551"
+            "contentHash": "ea6054a9e1031875c634e5b4a0eb7985390e0551",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Contact\\fields",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Contact\\fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1543290730587,
             "changeTime": 1543290730587,
-            "contentHash": "be30f06c4ef181dd2bd5dcd588f3d92d65059238"
+            "contentHash": "be30f06c4ef181dd2bd5dcd588f3d92d65059238",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Contact",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Contact",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1543290730586,
             "changeTime": 1543290730586,
-            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -782,22 +769,321 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1543290730634,
-            "changeTime": 1543290730634,
-            "contentHash": "070f30c1a7eef9773d72892fe6f4e1e903d872a8"
+            "modifiedTime": 1543298068546,
+            "changeTime": 1543298068546,
+            "contentHash": "0ad7622f5de5a5f51acf6423052bf3a5ea0b934d"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\profiles",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\profiles",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1543290730664,
             "changeTime": 1543290730664,
-            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Daily_Booking_Rate__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Daily_Booking_Rate__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 390,
+            "modifiedTime": 1543298068528,
+            "changeTime": 1543298068528,
+            "contentHash": "60783813b4462947e771268f053c0ba4d7cc59e6"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\Customer_Fields__mdt.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\Customer_Fields__mdt.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 236,
+            "modifiedTime": 1543298068535,
+            "changeTime": 1543298068535,
+            "contentHash": "ef6ad44cd1debd770cacef0f3c93c29fefb8b035"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_City__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_City__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 395,
+            "modifiedTime": 1543298068536,
+            "changeTime": 1543298068536,
+            "contentHash": "ada6ccae9353762ea32372a9af05b1e3db136139"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Email__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Email__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 682,
+            "modifiedTime": 1543298068537,
+            "changeTime": 1543298068537,
+            "contentHash": "e6fc2586b114734b58829bff8f1e23e866fd25e0"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Name__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 678,
+            "modifiedTime": 1543298068538,
+            "changeTime": 1543298068538,
+            "contentHash": "afc3f12127a4f607e026afd133f9b8f5bfc43492"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_State__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_State__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 397,
+            "modifiedTime": 1543298068538,
+            "changeTime": 1543298068538,
+            "contentHash": "443845b358ba1fef20224455bd30fe5df3721d36"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Status__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Status__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 672,
+            "modifiedTime": 1543298068539,
+            "changeTime": 1543298068539,
+            "contentHash": "bc7adb3960f8687fb00689aaa162a31a3728b7b9"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\SObject_Type__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\SObject_Type__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 549,
+            "modifiedTime": 1543298068540,
+            "changeTime": 1543298068540,
+            "contentHash": "61112b2a24e51527bb50c291a17e90037cbd745f"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\layouts\\Customer_Fields__mdt-Customer Fields Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\layouts\\Customer_Fields__mdt-Customer Fields Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3198,
+            "modifiedTime": 1543298068546,
+            "changeTime": 1543298068546,
+            "contentHash": "2da4c7c0e593c7a291a97c6cd5302eb0494548d3"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\tabs\\Reservation__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\tabs\\Reservation__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 223,
+            "modifiedTime": 1543298068548,
+            "changeTime": 1543298068548,
+            "contentHash": "d528a831deb8ba355eb939b6f84f3b0186c6d4be"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\tabs\\Market__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\tabs\\Market__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 221,
+            "modifiedTime": 1543298068550,
+            "changeTime": 1543298068550,
+            "contentHash": "99ad59b0f67ecf7d00cfef6ed7b06faa99ff7657"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\tabs\\Space__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\tabs\\Space__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 224,
+            "modifiedTime": 1543298068552,
+            "changeTime": 1543298068552,
+            "contentHash": "3454a60b4c28e005c7a88c1b83d8ec534fff14f9"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\classes\\customerServices.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\classes\\customerServices.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1543298068554,
+            "changeTime": 1543298068554,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\classes\\customerServices.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\classes\\customerServices.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1715,
+            "modifiedTime": 1543298068556,
+            "changeTime": 1543298068556,
+            "contentHash": "c9d4523cd11c9950c1fbf8c8e1799465b507aa7f"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\classes\\reservationManagerController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\classes\\reservationManagerController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1543298068558,
+            "changeTime": 1543298068558,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\classes\\reservationManagerController.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\classes\\reservationManagerController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1773,
+            "modifiedTime": 1543298068560,
+            "changeTime": 1543298068560,
+            "contentHash": "2ee6a7535c6e87674f9eec2d56d4af75b6d93480"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\customMetadata\\Customer_Fields.Contact_Customer_Field.md-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\customMetadata\\Customer_Fields.Contact_Customer_Field.md-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1002,
+            "modifiedTime": 1543298068648,
+            "changeTime": 1543298068648,
+            "contentHash": "7a30b8a8fbb68b40c89af6423e9a51853a2ca988"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\customMetadata\\Customer_Fields.Lead_Customer_Fields.md-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\customMetadata\\Customer_Fields.Lead_Customer_Fields.md-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 983,
+            "modifiedTime": 1543298068663,
+            "changeTime": 1543298068663,
+            "contentHash": "03222bda41ae937616a616b0a6ed848df884be15"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1543298068535,
+            "changeTime": 1543298068535,
+            "contentHash": "e1b2731ee3f217f9c3cae2b1daba8b54db2c1a48"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1543298068539,
+            "changeTime": 1543298068539,
+            "contentHash": "a3f44d449676e5918d69d3403b9a8d17fb8f4afe"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\tabs",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1543298068552,
+            "changeTime": 1543298068552,
+            "contentHash": "a1a3c3b675f3be961d8e3cf8e64bbfa73b7a4bef"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1543298068559,
+            "changeTime": 1543298068559,
+            "contentHash": "db8d4fb2830b729e355c21338865355650835a05"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\customMetadata",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\customMetadata",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1543298068663,
+            "changeTime": 1543298068663,
+            "contentHash": "79e57c27e9c09be5656a4f14d138441365219c22"
         }
     ]
 ]
