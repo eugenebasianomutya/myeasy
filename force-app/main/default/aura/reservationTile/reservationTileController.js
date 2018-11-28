@@ -1,6 +1,7 @@
 ({
     handleClick : function(component, event, helper)
     {
+        //debugger;
         var reservation = component.get("v.reservation");
         helper.sendObjectEvent(component, reservation);
         helper.sendMuteEvent(component, reservation.Id);

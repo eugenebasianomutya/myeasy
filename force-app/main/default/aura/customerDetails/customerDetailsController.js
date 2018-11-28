@@ -48,6 +48,7 @@
     
     draftReservation : function(component, event, helper)
     {
+        debugger;
         var mkt = component.get("v.requestedMarket");
         
         if(!mkt)

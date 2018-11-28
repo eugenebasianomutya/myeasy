@@ -22,6 +22,7 @@
         {
             if(! record)
             {
+                //debugger;
                 helper.startFlow(component, event, helper);
             }
         }
