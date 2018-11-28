@@ -32,29 +32,27 @@
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1543298068647,
-            "changeTime": 1543298068647,
-            "contentHash": "bff5680053219d74de32fb5b4d6eda1d77dc9fe5"
+            "modifiedTime": 1543365918226,
+            "changeTime": 1543365918226,
+            "contentHash": "d2a1ed176b6f1dc878f612428c8d92c7a116f62a",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura",
         {
+            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1543288881673,
-            "changeTime": 1543288881673,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
             "isMetadataFile": false,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 0,
+            "modifiedTime": 1543373328851,
+            "changeTime": 1543373328851,
+            "contentHash": "4a30abfe9e439acdb261cffefaf21cdc1fb4ff89"
         }
     ],
     [
@@ -142,10 +140,10 @@
         {
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Category__c.field-meta.xml",
             "isDirectory": false,
-            "size": 2339,
-            "modifiedTime": 1543290730533,
-            "changeTime": 1543290730533,
-            "contentHash": "c0f299696ac5f730ce66fbce31ed7d77310d8db1",
+            "size": 2301,
+            "modifiedTime": 1543365917959,
+            "changeTime": 1543365917959,
+            "contentHash": "d017e8efca9d6379fb18aefca34b940384478248",
             "isMetadataFile": true,
             "state": "u"
         }
@@ -159,19 +157,6 @@
             "modifiedTime": 1543290730534,
             "changeTime": 1543290730534,
             "contentHash": "91f2ddaf78c9cc4d9e1272ed7e9d343d041f3ecb",
-            "isMetadataFile": true,
-            "state": "u"
-        }
-    ],
-    [
-        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Maximun_Capacity__c.field-meta.xml",
-        {
-            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Maximun_Capacity__c.field-meta.xml",
-            "isDirectory": false,
-            "size": 406,
-            "modifiedTime": 1543290730535,
-            "changeTime": 1543290730535,
-            "contentHash": "0bca3544602822cdb8e7f51b5bb7142a4f310df9",
             "isMetadataFile": true,
             "state": "u"
         }
@@ -586,10 +571,10 @@
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 10494,
-            "modifiedTime": 1543298068574,
-            "changeTime": 1543298068574,
-            "contentHash": "3c6a54f91704a9137c3b3584954ece8fc1317a7d"
+            "size": 10916,
+            "modifiedTime": 1543373328885,
+            "changeTime": 1543373328885,
+            "contentHash": "664782070fefb592d84547a8585de4742ff5603a"
         }
     ],
     [
@@ -599,10 +584,10 @@
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 10498,
-            "modifiedTime": 1543298068588,
-            "changeTime": 1543298068588,
-            "contentHash": "fdec2ae35766aaef121a912e6a952d3734d20bd2"
+            "size": 10920,
+            "modifiedTime": 1543373328905,
+            "changeTime": 1543373328905,
+            "contentHash": "7532c22b8e73596e37d39a1321d05e59cd9e04ac"
         }
     ],
     [
@@ -612,10 +597,10 @@
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 10834,
-            "modifiedTime": 1543298068609,
-            "changeTime": 1543298068609,
-            "contentHash": "56c3d508b1ef5c8473366f6f898bded9489360aa"
+            "size": 11256,
+            "modifiedTime": 1543373328926,
+            "changeTime": 1543373328926,
+            "contentHash": "e311c79acd6b8af292258cd717c41c27a9fa6fff"
         }
     ],
     [
@@ -625,10 +610,10 @@
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 25016,
-            "modifiedTime": 1543298068645,
-            "changeTime": 1543298068645,
-            "contentHash": "57a615f45ce7ded658f91578e3bd4c1868047c9e"
+            "size": 25436,
+            "modifiedTime": 1543373328947,
+            "changeTime": 1543373328947,
+            "contentHash": "45426f8e305325f73f5c78be44014cda344bf1bf"
         }
     ],
     [
@@ -660,27 +645,27 @@
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1543298068534,
             "changeTime": 1543298068534,
-            "contentHash": "bf16ba11d9284d660bf9e104b0afe0bafd7e2588"
+            "contentHash": "bf16ba11d9284d660bf9e104b0afe0bafd7e2588",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1543298068527,
-            "changeTime": 1543298068527,
-            "contentHash": "81a23e482b020a5da3935053eb5def6c217733a8"
+            "modifiedTime": 1543365917959,
+            "changeTime": 1543365917959,
+            "contentHash": "1b0cb1744008f396c4f8b45d93065fbd2d62ad75",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -764,14 +749,14 @@
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\layouts",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\layouts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1543298068546,
             "changeTime": 1543298068546,
-            "contentHash": "0ad7622f5de5a5f51acf6423052bf3a5ea0b934d"
+            "contentHash": "0ad7622f5de5a5f51acf6423052bf3a5ea0b934d",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -790,261 +775,261 @@
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Daily_Booking_Rate__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Daily_Booking_Rate__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 390,
             "modifiedTime": 1543298068528,
             "changeTime": 1543298068528,
-            "contentHash": "60783813b4462947e771268f053c0ba4d7cc59e6"
+            "contentHash": "60783813b4462947e771268f053c0ba4d7cc59e6",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\Customer_Fields__mdt.object-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\Customer_Fields__mdt.object-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 236,
             "modifiedTime": 1543298068535,
             "changeTime": 1543298068535,
-            "contentHash": "ef6ad44cd1debd770cacef0f3c93c29fefb8b035"
+            "contentHash": "ef6ad44cd1debd770cacef0f3c93c29fefb8b035",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_City__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_City__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 395,
             "modifiedTime": 1543298068536,
             "changeTime": 1543298068536,
-            "contentHash": "ada6ccae9353762ea32372a9af05b1e3db136139"
+            "contentHash": "ada6ccae9353762ea32372a9af05b1e3db136139",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Email__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Email__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 682,
             "modifiedTime": 1543298068537,
             "changeTime": 1543298068537,
-            "contentHash": "e6fc2586b114734b58829bff8f1e23e866fd25e0"
+            "contentHash": "e6fc2586b114734b58829bff8f1e23e866fd25e0",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Name__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Name__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 678,
             "modifiedTime": 1543298068538,
             "changeTime": 1543298068538,
-            "contentHash": "afc3f12127a4f607e026afd133f9b8f5bfc43492"
+            "contentHash": "afc3f12127a4f607e026afd133f9b8f5bfc43492",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_State__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_State__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 397,
             "modifiedTime": 1543298068538,
             "changeTime": 1543298068538,
-            "contentHash": "443845b358ba1fef20224455bd30fe5df3721d36"
+            "contentHash": "443845b358ba1fef20224455bd30fe5df3721d36",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Status__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Status__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 672,
             "modifiedTime": 1543298068539,
             "changeTime": 1543298068539,
-            "contentHash": "bc7adb3960f8687fb00689aaa162a31a3728b7b9"
+            "contentHash": "bc7adb3960f8687fb00689aaa162a31a3728b7b9",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\SObject_Type__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\SObject_Type__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 549,
             "modifiedTime": 1543298068540,
             "changeTime": 1543298068540,
-            "contentHash": "61112b2a24e51527bb50c291a17e90037cbd745f"
+            "contentHash": "61112b2a24e51527bb50c291a17e90037cbd745f",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\layouts\\Customer_Fields__mdt-Customer Fields Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\layouts\\Customer_Fields__mdt-Customer Fields Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 3198,
             "modifiedTime": 1543298068546,
             "changeTime": 1543298068546,
-            "contentHash": "2da4c7c0e593c7a291a97c6cd5302eb0494548d3"
+            "contentHash": "2da4c7c0e593c7a291a97c6cd5302eb0494548d3",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\tabs\\Reservation__c.tab-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\tabs\\Reservation__c.tab-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 223,
             "modifiedTime": 1543298068548,
             "changeTime": 1543298068548,
-            "contentHash": "d528a831deb8ba355eb939b6f84f3b0186c6d4be"
+            "contentHash": "d528a831deb8ba355eb939b6f84f3b0186c6d4be",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\tabs\\Market__c.tab-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\tabs\\Market__c.tab-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 221,
             "modifiedTime": 1543298068550,
             "changeTime": 1543298068550,
-            "contentHash": "99ad59b0f67ecf7d00cfef6ed7b06faa99ff7657"
+            "contentHash": "99ad59b0f67ecf7d00cfef6ed7b06faa99ff7657",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\tabs\\Space__c.tab-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\tabs\\Space__c.tab-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 224,
             "modifiedTime": 1543298068552,
             "changeTime": 1543298068552,
-            "contentHash": "3454a60b4c28e005c7a88c1b83d8ec534fff14f9"
+            "contentHash": "3454a60b4c28e005c7a88c1b83d8ec534fff14f9",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\classes\\customerServices.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\classes\\customerServices.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
             "modifiedTime": 1543298068554,
             "changeTime": 1543298068554,
-            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a"
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\classes\\customerServices.cls",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\classes\\customerServices.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1715,
             "modifiedTime": 1543298068556,
             "changeTime": 1543298068556,
-            "contentHash": "c9d4523cd11c9950c1fbf8c8e1799465b507aa7f"
+            "contentHash": "c9d4523cd11c9950c1fbf8c8e1799465b507aa7f",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\classes\\reservationManagerController.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\classes\\reservationManagerController.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
             "modifiedTime": 1543298068558,
             "changeTime": 1543298068558,
-            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a"
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\classes\\reservationManagerController.cls",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\classes\\reservationManagerController.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1773,
             "modifiedTime": 1543298068560,
             "changeTime": 1543298068560,
-            "contentHash": "2ee6a7535c6e87674f9eec2d56d4af75b6d93480"
+            "contentHash": "2ee6a7535c6e87674f9eec2d56d4af75b6d93480",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\customMetadata\\Customer_Fields.Contact_Customer_Field.md-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\customMetadata\\Customer_Fields.Contact_Customer_Field.md-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 1002,
             "modifiedTime": 1543298068648,
             "changeTime": 1543298068648,
-            "contentHash": "7a30b8a8fbb68b40c89af6423e9a51853a2ca988"
+            "contentHash": "7a30b8a8fbb68b40c89af6423e9a51853a2ca988",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\customMetadata\\Customer_Fields.Lead_Customer_Fields.md-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\customMetadata\\Customer_Fields.Lead_Customer_Fields.md-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 983,
             "modifiedTime": 1543298068663,
             "changeTime": 1543298068663,
-            "contentHash": "03222bda41ae937616a616b0a6ed848df884be15"
+            "contentHash": "03222bda41ae937616a616b0a6ed848df884be15",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1543298068535,
             "changeTime": 1543298068535,
-            "contentHash": "e1b2731ee3f217f9c3cae2b1daba8b54db2c1a48"
+            "contentHash": "e1b2731ee3f217f9c3cae2b1daba8b54db2c1a48",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1543298068539,
             "changeTime": 1543298068539,
-            "contentHash": "a3f44d449676e5918d69d3403b9a8d17fb8f4afe"
+            "contentHash": "a3f44d449676e5918d69d3403b9a8d17fb8f4afe",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1055,35 +1040,1478 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1543298068552,
-            "changeTime": 1543298068552,
-            "contentHash": "a1a3c3b675f3be961d8e3cf8e64bbfa73b7a4bef"
+            "modifiedTime": 1543373328857,
+            "changeTime": 1543373328857,
+            "contentHash": "42c13b680747a1fdb479a24a5bbaa7c0a0b5b822"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\classes",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1543298068559,
-            "changeTime": 1543298068559,
-            "contentHash": "db8d4fb2830b729e355c21338865355650835a05"
+            "modifiedTime": 1543365917974,
+            "changeTime": 1543365917974,
+            "contentHash": "d5a04d3553b138a27ad9f7ee49d65723d30fe507",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\customMetadata",
         {
-            "state": "u",
             "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\customMetadata",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1543298068663,
             "changeTime": 1543298068663,
-            "contentHash": "79e57c27e9c09be5656a4f14d138441365219c22"
+            "contentHash": "79e57c27e9c09be5656a4f14d138441365219c22",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\marketService\\marketService.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\marketService\\marketService.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1543365917879,
+            "changeTime": 1543365917879,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\marketService\\marketService.cmp",
+        {
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\marketService\\marketService.cmp",
+            "isDirectory": false,
+            "size": 516,
+            "modifiedTime": 1543365917879,
+            "changeTime": 1543365917879,
+            "contentHash": "6155a39f4ffe92d8e7fcc3cc4d452b39e64b6e5c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\marketService\\marketServiceHelper.js",
+        {
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\marketService\\marketServiceHelper.js",
+            "isDirectory": false,
+            "size": 1126,
+            "modifiedTime": 1543365917895,
+            "changeTime": 1543365917895,
+            "contentHash": "3553bd6559b4a5422a9b74e65bc910ffa8534570",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\reservationHelper\\reservationHelper.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\reservationHelper\\reservationHelper.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1543365917895,
+            "changeTime": 1543365917895,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\reservationHelper\\reservationHelper.cmp",
+        {
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\reservationHelper\\reservationHelper.cmp",
+            "isDirectory": false,
+            "size": 1078,
+            "modifiedTime": 1543365917895,
+            "changeTime": 1543365917895,
+            "contentHash": "15ede58d67ad69fea72a952988df6483eff62bc9",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\reservationHelper\\reservationHelperController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\reservationHelper\\reservationHelperController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1319,
+            "modifiedTime": 1543373328828,
+            "changeTime": 1543373328828,
+            "contentHash": "36d1c33cd893b74a54cb27dfce7aaab986242832"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\reservationHelper\\reservationHelperHelper.js",
+        {
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\reservationHelper\\reservationHelperHelper.js",
+            "isDirectory": false,
+            "size": 1008,
+            "modifiedTime": 1543365917895,
+            "changeTime": 1543365917895,
+            "contentHash": "adfbe9717dd982e2d24aa9cb04f6b63bb1f0cd36",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\customerDetails\\customerDetails.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\customerDetails\\customerDetails.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1543365917895,
+            "changeTime": 1543365917895,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\customerDetails\\customerDetailsController.js",
+        {
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\customerDetails\\customerDetailsController.js",
+            "isDirectory": false,
+            "size": 1818,
+            "modifiedTime": 1543365917895,
+            "changeTime": 1543365917895,
+            "contentHash": "f5235c3b6294a936c822059c3c2f2cd73d66f88f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\customerDetails\\customerDetails.design",
+        {
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\customerDetails\\customerDetails.design",
+            "isDirectory": false,
+            "size": 471,
+            "modifiedTime": 1543365917895,
+            "changeTime": 1543365917895,
+            "contentHash": "2465c24ffc15a2d566040b5c5af8bd51c8b3d804",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\customerDetails\\customerDetailsHelper.js",
+        {
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\customerDetails\\customerDetailsHelper.js",
+            "isDirectory": false,
+            "size": 741,
+            "modifiedTime": 1543365917895,
+            "changeTime": 1543365917895,
+            "contentHash": "f7383dfa589a36182d7021e74a45c6c5d9b7a9a1",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\customerDetails\\customerDetails.cmp",
+        {
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\customerDetails\\customerDetails.cmp",
+            "isDirectory": false,
+            "size": 4282,
+            "modifiedTime": 1543365917895,
+            "changeTime": 1543365917895,
+            "contentHash": "1dad89d0d08432734b8775ce7f3166d730de9962",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\customerListHarnessApp\\customerListHarnessApp.app-meta.xml",
+        {
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\customerListHarnessApp\\customerListHarnessApp.app-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1543365917912,
+            "changeTime": 1543365917912,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\customerListHarnessApp\\customerListHarnessApp.app",
+        {
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\customerListHarnessApp\\customerListHarnessApp.app",
+            "isDirectory": false,
+            "size": 61,
+            "modifiedTime": 1543365917912,
+            "changeTime": 1543365917912,
+            "contentHash": "7984a676e0685428bedaa144d4b618409468016a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\openRecordAction\\openRecordAction.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\openRecordAction\\openRecordAction.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1543365917912,
+            "changeTime": 1543365917912,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\openRecordAction\\openRecordActionController.js",
+        {
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\openRecordAction\\openRecordActionController.js",
+            "isDirectory": false,
+            "size": 579,
+            "modifiedTime": 1543365917912,
+            "changeTime": 1543365917912,
+            "contentHash": "4429cdefd86da55ecd225ebceb13f0bfe1e345bd",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\openRecordAction\\openRecordAction.cmp",
+        {
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\openRecordAction\\openRecordAction.cmp",
+            "isDirectory": false,
+            "size": 258,
+            "modifiedTime": 1543365917912,
+            "changeTime": 1543365917912,
+            "contentHash": "856261b282d496b811c6bd9b3da772b512a49c42",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\openRecordAction\\openRecordAction.design",
+        {
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\openRecordAction\\openRecordAction.design",
+            "isDirectory": false,
+            "size": 160,
+            "modifiedTime": 1543365917912,
+            "changeTime": 1543365917912,
+            "contentHash": "71c611eef7647e56d00005513d8e014608317cef",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\customerTile\\customerTile.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\customerTile\\customerTile.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1543365917912,
+            "changeTime": 1543365917912,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\customerTile\\customerTile.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\customerTile\\customerTile.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1601,
+            "modifiedTime": 1543373328817,
+            "changeTime": 1543373328817,
+            "contentHash": "b867b96b7a8e0068c2c033f7026a852d3bc84e0c"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\customerTile\\customerTileHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\customerTile\\customerTileHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 676,
+            "modifiedTime": 1543373328814,
+            "changeTime": 1543373328814,
+            "contentHash": "cfd9e488e2a51ee2e43da95d1adfef2d5478720f"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\customerTile\\customerTileController.js",
+        {
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\customerTile\\customerTileController.js",
+            "isDirectory": false,
+            "size": 1341,
+            "modifiedTime": 1543365917912,
+            "changeTime": 1543365917912,
+            "contentHash": "8bd684bd92a5294056bc356c3cd9cb76edc069f2",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\customerList\\customerList.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\customerList\\customerList.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1543365917912,
+            "changeTime": 1543365917912,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\customerList\\customerList.cmp",
+        {
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\customerList\\customerList.cmp",
+            "isDirectory": false,
+            "size": 729,
+            "modifiedTime": 1543365917912,
+            "changeTime": 1543365917912,
+            "contentHash": "152622c26ed9cdb2b9b19b99592039d3ed59081b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\customerList\\customerList.design",
+        {
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\customerList\\customerList.design",
+            "isDirectory": false,
+            "size": 186,
+            "modifiedTime": 1543365917912,
+            "changeTime": 1543365917912,
+            "contentHash": "3c5e3425150d89b530acb0ce30a2e09027678127",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\customerList\\customerListHelper.js",
+        {
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\customerList\\customerListHelper.js",
+            "isDirectory": false,
+            "size": 368,
+            "modifiedTime": 1543365917927,
+            "changeTime": 1543365917927,
+            "contentHash": "f199dea07c23eee1dac3d40025f53ee36e0c2c93",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\customerList\\customerListController.js",
+        {
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\customerList\\customerListController.js",
+            "isDirectory": false,
+            "size": 628,
+            "modifiedTime": 1543365917927,
+            "changeTime": 1543365917927,
+            "contentHash": "fe81832c4aa958f7cad8186b4149b8bc4cb54b50",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\customerService\\customerService.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\customerService\\customerService.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1543365917927,
+            "changeTime": 1543365917927,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\customerService\\customerServiceController.js",
+        {
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\customerService\\customerServiceController.js",
+            "isDirectory": false,
+            "size": 618,
+            "modifiedTime": 1543365917927,
+            "changeTime": 1543365917927,
+            "contentHash": "7bf90569ad9c73ab0411a9f32e981d44fb81c846",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\customerService\\customerService.cmp",
+        {
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\customerService\\customerService.cmp",
+            "isDirectory": false,
+            "size": 359,
+            "modifiedTime": 1543365917927,
+            "changeTime": 1543365917927,
+            "contentHash": "47f3eddcb20658074618f60502b2e7f9f98fdad1",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Maximum_Capacity__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Maximum_Capacity__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 406,
+            "modifiedTime": 1543365917959,
+            "changeTime": 1543365917959,
+            "contentHash": "dc53d00529be95237f5d862294a446bd6008fc89",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\flexipages\\Reservation_Manager.flexipage-meta.xml",
+        {
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\flexipages\\Reservation_Manager.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 1153,
+            "modifiedTime": 1543365917959,
+            "changeTime": 1543365917959,
+            "contentHash": "63a6c155682e6089824435a9d4373f29e2235ae8",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\flexipages\\Space_Management_UtilityBar.flexipage-meta.xml",
+        {
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\flexipages\\Space_Management_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 511,
+            "modifiedTime": 1543365917959,
+            "changeTime": 1543365917959,
+            "contentHash": "f963b7216a591546c07b67944b731b1858928d7a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\tabs\\Reservation_Manager.tab-meta.xml",
+        {
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\tabs\\Reservation_Manager.tab-meta.xml",
+            "isDirectory": false,
+            "size": 333,
+            "modifiedTime": 1543365917959,
+            "changeTime": 1543365917959,
+            "contentHash": "98d406532f067cba4749225a15175c046ba54e0c",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\applications\\Space_Management.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\applications\\Space_Management.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1611,
+            "modifiedTime": 1543373328861,
+            "changeTime": 1543373328861,
+            "contentHash": "0d96dcb87ea4232578e6e579a9d24c15abd9b64b"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\flows\\Create_Reservation.flow-meta.xml",
+        {
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\flows\\Create_Reservation.flow-meta.xml",
+            "isDirectory": false,
+            "size": 11209,
+            "modifiedTime": 1543365917974,
+            "changeTime": 1543365917974,
+            "contentHash": "2b1645442264f1864e64797699bb36416a88cef1",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\classes\\marketServices.cls-meta.xml",
+        {
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\classes\\marketServices.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1543365917974,
+            "changeTime": 1543365917974,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\classes\\marketServices.cls",
+        {
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\classes\\marketServices.cls",
+            "isDirectory": false,
+            "size": 555,
+            "modifiedTime": 1543365917974,
+            "changeTime": 1543365917974,
+            "contentHash": "6c7382bc7498b153a1f81b64928f36d3d490c236",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\contentassets\\EasySpaces.asset-meta.xml",
+        {
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\contentassets\\EasySpaces.asset-meta.xml",
+            "isDirectory": false,
+            "size": 533,
+            "modifiedTime": 1543365918226,
+            "changeTime": 1543365918226,
+            "contentHash": "53cc550dfda88253fc6522f9365881a8e80525ed",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\contentassets\\EasySpaces.asset",
+        {
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\contentassets\\EasySpaces.asset",
+            "isDirectory": false,
+            "size": 4738,
+            "modifiedTime": 1543365918226,
+            "changeTime": 1543365918226,
+            "contentHash": "d6766fe18fff248c208399380ff9b1d64d6a1708",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\marketService",
+        {
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\marketService",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1543365917895,
+            "changeTime": 1543365917895,
+            "contentHash": "eb4e17c95d96cae17ee56f2ad3e054b8280031db",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\reservationHelper",
+        {
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\reservationHelper",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1543365917895,
+            "changeTime": 1543365917895,
+            "contentHash": "e14a5c0dee87372f52d8a7288d8ab15b5b9b5912",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\customerDetails",
+        {
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\customerDetails",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1543365917895,
+            "changeTime": 1543365917895,
+            "contentHash": "90c25825552f67096b05b6a3bb72ad590d311435",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\customerListHarnessApp",
+        {
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\customerListHarnessApp",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1543365917912,
+            "changeTime": 1543365917912,
+            "contentHash": "f4c17d44da5ac48d8c537d1fb2da17a3a275f4fa",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\openRecordAction",
+        {
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\openRecordAction",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1543365917912,
+            "changeTime": 1543365917912,
+            "contentHash": "7321c378df769877e40355f5bfce9a1b58e27b86",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\customerTile",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\customerTile",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1543373328817,
+            "changeTime": 1543373328817,
+            "contentHash": "c4bd58ae7663c68dc57648f6a93adc1c7202cef9"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\customerList",
+        {
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\customerList",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1543365917927,
+            "changeTime": 1543365917927,
+            "contentHash": "b5c213d13d76df90d4462131a018318545af2ad9",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\customerService",
+        {
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\customerService",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1543365917927,
+            "changeTime": 1543365917927,
+            "contentHash": "18684102a7cb0b8d23d4082c21d7c56710f93020",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\flexipages",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1543373328856,
+            "changeTime": 1543373328856,
+            "contentHash": "07702885a254a6be37ae4ce685d4f05324268321"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\applications",
+        {
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1543365917959,
+            "changeTime": 1543365917959,
+            "contentHash": "158c976a36a87f116211b68b6b287be4ac5f9591",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\flows",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\flows",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1543373328869,
+            "changeTime": 1543373328869,
+            "contentHash": "fb5780bb788a22d99ca978954abc801665e1d428"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\contentassets",
+        {
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\contentassets",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1543365918226,
+            "changeTime": 1543365918226,
+            "contentHash": "dad387c8a3cc34117f780a83f36b34a432598e20",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\reservationTile\\reservationTile.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\reservationTile\\reservationTile.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1543373328780,
+            "changeTime": 1543373328780,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\reservationTile\\reservationTile.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\reservationTile\\reservationTile.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 37,
+            "modifiedTime": 1543373328782,
+            "changeTime": 1543373328782,
+            "contentHash": "d0840adc26bdefc45e4f8b1ca115367324a16255"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\reservationTile\\reservationTileHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\reservationTile\\reservationTileHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 870,
+            "modifiedTime": 1543373328784,
+            "changeTime": 1543373328784,
+            "contentHash": "9bc7cccd33fbf3c0c5b3e1bda64245b3dbf4ebfa"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\reservationTile\\reservationTile.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\reservationTile\\reservationTile.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3752,
+            "modifiedTime": 1543373328785,
+            "changeTime": 1543373328785,
+            "contentHash": "1720955c165c6f0fc2135d09c2edbd5f5a4e6777"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\reservationTile\\reservationTileController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\reservationTile\\reservationTileController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 938,
+            "modifiedTime": 1543373328787,
+            "changeTime": 1543373328787,
+            "contentHash": "dd93b98cfdf5419c9f485aae1092f9010c3820e5"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\spaceDesigner\\spaceDesigner.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\spaceDesigner\\spaceDesigner.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1543373328789,
+            "changeTime": 1543373328789,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\spaceDesigner\\spaceDesigner.svg",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\spaceDesigner\\spaceDesigner.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1307,
+            "modifiedTime": 1543373328790,
+            "changeTime": 1543373328790,
+            "contentHash": "cf57fd7c513e0a8773e4328fa713533b5a7f1208"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\spaceDesigner\\spaceDesignerHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\spaceDesigner\\spaceDesignerHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 804,
+            "modifiedTime": 1543373328792,
+            "changeTime": 1543373328792,
+            "contentHash": "ed1639c5a954290be1588e245a5007a21069e1d5"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\spaceDesigner\\spaceDesignerController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\spaceDesigner\\spaceDesignerController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1190,
+            "modifiedTime": 1543373328793,
+            "changeTime": 1543373328793,
+            "contentHash": "c9a7c2c2fbe71c0d6b7762352a8134d0504363db"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\spaceDesigner\\spaceDesigner.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\spaceDesigner\\spaceDesigner.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 971,
+            "modifiedTime": 1543373328794,
+            "changeTime": 1543373328794,
+            "contentHash": "81dd61f8d6f9494cffcbdba8d8c574f15ca1252f"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\galleryTile\\galleryTile.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\galleryTile\\galleryTile.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1543373328796,
+            "changeTime": 1543373328796,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\galleryTile\\galleryTile.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\galleryTile\\galleryTile.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1591,
+            "modifiedTime": 1543373328797,
+            "changeTime": 1543373328797,
+            "contentHash": "0006466ce043a482fd2ab57a7bc7941e04c8172a"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\galleryTile\\galleryTileHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\galleryTile\\galleryTileHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 634,
+            "modifiedTime": 1543373328798,
+            "changeTime": 1543373328798,
+            "contentHash": "c2517c2523642d377a077f1ade07648567369292"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\galleryTile\\galleryTileController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\galleryTile\\galleryTileController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1263,
+            "modifiedTime": 1543373328799,
+            "changeTime": 1543373328799,
+            "contentHash": "409861056a093e652dc359f0a5e4b7eb750253cb"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\galleryTile\\galleryTile.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\galleryTile\\galleryTile.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 273,
+            "modifiedTime": 1543373328801,
+            "changeTime": 1543373328801,
+            "contentHash": "b439b7d13cd88c662ce25d2dad3a926d9fdbeb1a"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\selectObjectEvent\\selectObjectEvent.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\selectObjectEvent\\selectObjectEvent.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1543373328803,
+            "changeTime": 1543373328803,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\selectObjectEvent\\selectObjectEvent.evt",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\selectObjectEvent\\selectObjectEvent.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 177,
+            "modifiedTime": 1543373328804,
+            "changeTime": 1543373328804,
+            "contentHash": "e3e6333dfbb5511848c476b369fc54ff8cb08ebb"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\pillTile\\pillTile.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\pillTile\\pillTile.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1543373328806,
+            "changeTime": 1543373328806,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\pillTile\\pillTileHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\pillTile\\pillTileHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 362,
+            "modifiedTime": 1543373328807,
+            "changeTime": 1543373328807,
+            "contentHash": "5404354314c8c9c6b3fb18d499c2e58402098c95"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\pillTile\\pillTile.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\pillTile\\pillTile.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 714,
+            "modifiedTime": 1543373328808,
+            "changeTime": 1543373328808,
+            "contentHash": "d015d19589a07eb4e6adbb3a11571f9779c17e77"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\pillTile\\pillTileController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\pillTile\\pillTileController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 647,
+            "modifiedTime": 1543373328810,
+            "changeTime": 1543373328810,
+            "contentHash": "c1d6d8c6714824ae19edcbda36951768abef6b91"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\customerTile\\customerTile.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\customerTile\\customerTile.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 37,
+            "modifiedTime": 1543373328815,
+            "changeTime": 1543373328815,
+            "contentHash": "d0840adc26bdefc45e4f8b1ca115367324a16255"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\smartGallery\\smartGallery.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\smartGallery\\smartGallery.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1543373328819,
+            "changeTime": 1543373328819,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\smartGallery\\smartGallery.design",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\smartGallery\\smartGallery.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 296,
+            "modifiedTime": 1543373328821,
+            "changeTime": 1543373328821,
+            "contentHash": "7080ad772626e9e7e00e51623554605f2d62a95f"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\smartGallery\\smartGalleryHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\smartGallery\\smartGalleryHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1167,
+            "modifiedTime": 1543373328822,
+            "changeTime": 1543373328822,
+            "contentHash": "6c54aebbb096fe7a83f6171c61d21ec0f6e4326f"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\smartGallery\\smartGallery.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\smartGallery\\smartGallery.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3606,
+            "modifiedTime": 1543373328823,
+            "changeTime": 1543373328823,
+            "contentHash": "403a5d0fd22435d22759383ab28420d4502606da"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\smartGallery\\smartGalleryController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\smartGallery\\smartGalleryController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1362,
+            "modifiedTime": 1543373328824,
+            "changeTime": 1543373328824,
+            "contentHash": "447866e499ee002b8fc526e999fc649712f2b838"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\pill\\pill.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\pill\\pill.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1543373328830,
+            "changeTime": 1543373328830,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\pill\\pillController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\pill\\pillController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 355,
+            "modifiedTime": 1543373328831,
+            "changeTime": 1543373328831,
+            "contentHash": "afcef34e80d43c4530ec7f3d9c31560e12786f1f"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\pill\\pillHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\pill\\pillHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 643,
+            "modifiedTime": 1543373328832,
+            "changeTime": 1543373328832,
+            "contentHash": "1ac21d303791e4108b26d531eea4c607fb66f215"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\pill\\pill.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\pill\\pill.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 570,
+            "modifiedTime": 1543373328834,
+            "changeTime": 1543373328834,
+            "contentHash": "152e433b7faa8b2f451bd91b5a63f910291a30e0"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\pill\\pill.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\pill\\pill.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 9,
+            "modifiedTime": 1543373328835,
+            "changeTime": 1543373328835,
+            "contentHash": "690dd1ee4df0575d78499135bec93071e468c5a4"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\muteTilesEvent\\muteTilesEvent.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\muteTilesEvent\\muteTilesEvent.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1543373328837,
+            "changeTime": 1543373328837,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\muteTilesEvent\\muteTilesEvent.evt",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\muteTilesEvent\\muteTilesEvent.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 181,
+            "modifiedTime": 1543373328839,
+            "changeTime": 1543373328839,
+            "contentHash": "3c2a958917f01d4e5d49610e01c514e1c3a3ad8e"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\pillSelectEvent\\pillSelectEvent.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\pillSelectEvent\\pillSelectEvent.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1543373328840,
+            "changeTime": 1543373328840,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\pillSelectEvent\\pillSelectEvent.evt",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\pillSelectEvent\\pillSelectEvent.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 121,
+            "modifiedTime": 1543373328841,
+            "changeTime": 1543373328841,
+            "contentHash": "c8f7774d83a753a36fd1e9da8b265080e7228de9"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\reservationList\\reservationList.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\reservationList\\reservationList.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1543373328843,
+            "changeTime": 1543373328843,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\reservationList\\reservationListController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\reservationList\\reservationListController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 318,
+            "modifiedTime": 1543373328844,
+            "changeTime": 1543373328844,
+            "contentHash": "5bcb3bc37a4d2826757edb16bd7ccdaa9bfa6a5b"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\reservationList\\reservationList.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\reservationList\\reservationList.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 741,
+            "modifiedTime": 1543373328846,
+            "changeTime": 1543373328846,
+            "contentHash": "9275f15414db18db9e75a1a89185c9cb73dd3683"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\reservationList\\reservationList.svg",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\reservationList\\reservationList.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1485,
+            "modifiedTime": 1543373328847,
+            "changeTime": 1543373328847,
+            "contentHash": "b1f927dc99535690aaac0a03e799d5912796b619"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\selectChangeEvent\\selectChangeEvent.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\selectChangeEvent\\selectChangeEvent.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1543373328849,
+            "changeTime": 1543373328849,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\selectChangeEvent\\selectChangeEvent.evt",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\selectChangeEvent\\selectChangeEvent.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 230,
+            "modifiedTime": 1543373328850,
+            "changeTime": 1543373328850,
+            "contentHash": "314091fa49c8c4f8c1a231416f0aa266c829a573"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\pillDeselectEvent\\pillDeselectEvent.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\pillDeselectEvent\\pillDeselectEvent.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1543373328852,
+            "changeTime": 1543373328852,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\pillDeselectEvent\\pillDeselectEvent.evt",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\pillDeselectEvent\\pillDeselectEvent.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 121,
+            "modifiedTime": 1543373328854,
+            "changeTime": 1543373328854,
+            "contentHash": "c8f7774d83a753a36fd1e9da8b265080e7228de9"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\flexipages\\Spaces_Designer.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\flexipages\\Spaces_Designer.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 714,
+            "modifiedTime": 1543373328856,
+            "changeTime": 1543373328856,
+            "contentHash": "35b32814a0311592e5e07b4576415a3622d8efff"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\tabs\\Spaces_Designer.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\tabs\\Spaces_Designer.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 324,
+            "modifiedTime": 1543373328858,
+            "changeTime": 1543373328858,
+            "contentHash": "0c7f285fe4bb6c06894e4965e4d16d240e67ce85"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\flows\\SpaceDesigner.flow-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\flows\\SpaceDesigner.flow-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5098,
+            "modifiedTime": 1543373328870,
+            "changeTime": 1543373328870,
+            "contentHash": "7c2294b5a27359cabecda1ae0493a946aef673cf"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\reservationTile",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\reservationTile",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1543373328787,
+            "changeTime": 1543373328787,
+            "contentHash": "a1e7c21d7ebc36e9b53b127840034e5e2ea4ab19"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\spaceDesigner",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\spaceDesigner",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1543373328794,
+            "changeTime": 1543373328794,
+            "contentHash": "4eccfc141d5e6e54ff30cd0233d4c48a2783d79a"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\galleryTile",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\galleryTile",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1543373328800,
+            "changeTime": 1543373328800,
+            "contentHash": "b4bd49ed896c0c6b2335fafd81e63235bea271b6"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\selectObjectEvent",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\selectObjectEvent",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1543373328803,
+            "changeTime": 1543373328803,
+            "contentHash": "a823bcdce3afd6462ad3ba2be33e5541b51bf9c1"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\pillTile",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\pillTile",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1543373328810,
+            "changeTime": 1543373328810,
+            "contentHash": "b333b8f65c34595128f9900d2f368c6a0fd180c5"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\smartGallery",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\smartGallery",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1543373328824,
+            "changeTime": 1543373328824,
+            "contentHash": "81d748c5dca289c52a3a36346dbdeb64775d12ee"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\pill",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\pill",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1543373328835,
+            "changeTime": 1543373328835,
+            "contentHash": "87db8f9247448c45b0355b8d6278477df85d9738"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\muteTilesEvent",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\muteTilesEvent",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1543373328838,
+            "changeTime": 1543373328838,
+            "contentHash": "608d484c761d9af8200b9505a0c0fe88ae2a9637"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\pillSelectEvent",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\pillSelectEvent",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1543373328841,
+            "changeTime": 1543373328841,
+            "contentHash": "13211ba799b521330ceb4ddb19111667cbb42149"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\reservationList",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\reservationList",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1543373328847,
+            "changeTime": 1543373328847,
+            "contentHash": "877d3872e603d651e9edb824870516646dc9f04b"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\selectChangeEvent",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\selectChangeEvent",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1543373328849,
+            "changeTime": 1543373328849,
+            "contentHash": "088b70d457d7840e49509d2d45c30d8abcfe4ae1"
+        }
+    ],
+    [
+        "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\pillDeselectEvent",
+        {
+            "state": "u",
+            "sourcePath": "C:\\LightningWorkshop\\myeasy\\force-app\\main\\default\\aura\\pillDeselectEvent",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1543373328853,
+            "changeTime": 1543373328853,
+            "contentHash": "1c4258b8164254f680ffc5669f43bcf97eb85cb5"
         }
     ]
 ]
